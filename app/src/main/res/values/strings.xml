@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsDemo</string>
+    <string name="activity_maps">Map</string>
+    <string name="DEBUG_MAINACTIVITY">MapsActivity</string>
+    <string name="AIzaSyBUccweBOT2M2STfKsXtm59_4rWsE4wVtg">AIzaSyBUccweBOT2M2STfKsXtm59_4rWsE4wVtg</string>
+    <string name="apiDublinBikes">API</string>
+
+</resources>
